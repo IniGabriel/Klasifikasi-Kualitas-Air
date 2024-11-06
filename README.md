@@ -1,7 +1,7 @@
 # Proyek UTS Klasifikasi Kualitas Air
 
 ## Deskripsi
-Proyek ini mengklasifikasikan kualitas air, yaitu air layak minum dan tidak layak minum menggunakan tiga algoritma : Support Vector Machine (SVM), K-Nearest Neighbors (KNN), dan Decision Tree. Tujuan dari proyek ini adalah untuk menemukan algoritma yang memberikan akurasi terbaik saat diterapkan pada dataset Water Quality.
+Proyek ini mengklasifikasikan kualitas air, yaitu air layak minum dan tidak layak minum menggunakan tiga algoritma : Support Vector Machine (SVM), K-Nearest Neighbors (KNN), dan Decision Tree.
 
 ## Dataset
 Dataset yang digunakan dalam penelitian ini adalah dataset Water Quality yang didapat dari 
