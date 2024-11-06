@@ -9,11 +9,6 @@ situs Kaggle. Berikut adalah link dataset https://www.kaggle.com/datasets/aditya
 3276 baris dan 10 kolom, yang terdiri dari 9 fitur dan 1 label. Tipe data untuk masing masing fitur 
 adalah float, lalu tipe data label adalah integer. 
 
-## Algoritma yang Dibandingkan
-1. Support Vector Machine (SVM)
-2. K-Nearest Neighbors (KNN)
-3. Decision Tree
-
 ## Tujuan Proyek
 Tujuan utama adalah membandingkan ketiga algoritma ini dan menentukan algoritma mana yang menghasilkan akurasi tertinggi dalam mengklasifikasikan kualitas air.
 
